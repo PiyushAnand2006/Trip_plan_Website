@@ -4,7 +4,7 @@ Traversea is a MakeMyTrip-inspired travel booking platform built with **React + 
 
 ## Screenshot
 
-![Traversea Homepage](docs/screenshot-homepage.png)
+![Traversea Homepage](docs/screenshot-homepage-v2.png)
 
 ## Tech Stack
 
