@@ -1,4 +1,4 @@
-# Trip_plan_Website
+# Traversea — Travel Booking Platform
 
 Traversea is a MakeMyTrip-inspired travel booking platform built with **React + Vite** and an **Express** backend. The frontend focuses on curated travel packages, hotel brands, destination collections, and a search-led booking flow across **Goa, Myanmar, Singapore**, and more.
 
