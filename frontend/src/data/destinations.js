@@ -1,0 +1,8 @@
+export const destinations = [
+  { id: 'd1', name: 'Goa, India', country: 'India', image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=500&fit=crop', description: 'Golden beaches, beach shacks and Portuguese heritage in one package.', price:699, rating:4.9, reviews:2140, badge:null },
+  { id: 'd2', name: 'Singapore', country: 'Singapore', image: 'https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=800&h=500&fit=crop', description: 'Futuristic skyline, gardens by the bay and Sentosa island stays.', price:949, rating:4.8, reviews:3200, badge:'plus' },
+  { id: 'd3', name: 'Myanmar', country: 'Myanmar', image: 'https://images.unsplash.com/photo-1449034446853-66c86144b0ad?w=800&h=500&fit=crop', description: 'Ancient temples, river cruises and timeless cultural experiences.', price:1099, rating:4.7, reviews:1280, badge:null },
+  { id: 'd4', name: 'Andaman, India', country: 'India', image: 'https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800&h=500&fit=crop', description: 'Pristine coral reefs, private beaches and luxury island resorts.', price:1299, rating:4.8, reviews:980, badge:'luxe' },
+  { id: 'd5', name: 'Bali, Indonesia', country: 'Indonesia', image: 'https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&h=500&fit=crop', description: 'Tropical rice terraces, temples and cliffside ocean hotels.', price:899, rating:4.9, reviews:2400, badge:null },
+  { id: 'd6', name: 'Bangkok + Phuket', country: 'Thailand', image: 'https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800&h=500&fit=crop', description: 'City buzz and beach calm in one seamless Thailand itinerary.', price:799, rating:4.7, reviews:1890, badge:'plus' }
+]
