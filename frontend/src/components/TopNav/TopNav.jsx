@@ -2,7 +2,7 @@ export default function TopNav() {
   return (
     <nav className="topnav" aria-label="Primary">
       <div className="topnav-inner">
-        <a className="topnav-logo" href="#">Wander<span>lust</span></a>
+        <a className="topnav-logo" href="#">Tra<span>versea</span></a>
         <div className="topnav-links">
           <a href="#packages">Packages</a>
           <a href="#hotels">Hotels</a>

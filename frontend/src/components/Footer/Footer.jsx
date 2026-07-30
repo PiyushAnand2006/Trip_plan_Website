@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer" role="contentinfo">
       <div className="footer-grid">
         <div className="footer-brand">
-          <a href="#" className="logo">Wander<span>lust</span></a>
+          <a href="#" className="logo">Tra<span>versea</span></a>
           <p>Making travel accessible, memorable, and magical for everyone. Since 2015.</p>
         </div>
         <div className="footer-column">
